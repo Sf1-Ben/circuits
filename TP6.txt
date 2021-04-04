@@ -1,0 +1,46 @@
+# Exercice 1:
+
+> Easy peasy
+
+
+
+# Exercice 2:
+
+1. ls /usr/bin/a*
+2. ls /usr/bin/*c*
+3. ls /usr/bin/*s
+4. ls /usr/bin/*[aeyuio]*
+5. ls /usr/bin/g*[aeyuio]*
+6. ls /usr/bin/*[1234567890]*
+7. ls /usr/bin/???
+8. ls /usr/bin/*{AZERTYUIOPQSDFGHJKLMWXCVBN}*{AZERTYUIOPQSDFGHJKLMWXCVBN}*
+9. ls /usr/bin/*ou*
+10. ls /usr/bin/*{et, ou}*
+
+
+
+# Exercice 3:
+1. cat > fic1; cat > fic2; cat > fic3
+2. mv fic1 nom; mv fic2 nom_login
+3. cp fic3 aujourdhui
+4. mkdir Corbeille Copie
+5. mv fic3 Corbeille
+6. cp nom nom_login Corbeille/
+7. cp * Copie
+8. ls Corbeille
+9. rm -rf Corbeille/*
+10. rm -rf Corbeille
+
+# Exercice 4:
+
+1. mkdir exo4
+2. cd exo4
+3. cat > a; cat > b; cat > c; cat > d; cat > e
+4. mkdir voyelle temp
+5. cd voyelle
+6. mv ../* .
+7. cp * ../temp/
+8. cp * ..
+9. cd ..
+10. mv temp tout
+11. 
