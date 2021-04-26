@@ -1,0 +1,31 @@
+Exercice 2:
+i)
+1. echo Premier quatrain des orphelins > titre
+2. cat titre orphelins > quatrain
+3. echo Rimbaud >> quatrin
+ii)
+1. date > info; whoami >> info; ls ~ >> info
+
+Exercice 3:
+i)
+1. head -n3 orphelins
+2. head -n3 orphelins | tail -n2
+3. head -n3 orphelins | tail -n2 | wc -w
+ii)
+1. ls /usr/bin | wc -l
+2. ls /usr/bin | tail -n15
+3. ls /usr/bin | tail -n15 | wc -m
+
+Exercice 4:
+i. cd Exo4
+ii. chmod u-r fic
+iii. chmod o-r .
+iv. chmod g+w rep*
+v. chmod 777 .
+vi. chmod 733 *
+vii. chmod 611 ../rep3/fic3_1 
+viii. chmod 600 ../rep*
+
+Exercice 5:
+i. cp -r Exo4/ Exo5; cd Exo5/rep2
+ii. 
